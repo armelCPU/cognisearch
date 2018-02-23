@@ -1,0 +1,33 @@
+"hits": {
+      "total": 2,
+      "max_score": 0.35355338,
+      "hits": [
+         {
+            "_index": "events_similarity",
+            "_type": "event",
+            "_id": "114",
+            "_score": 0.35355338,
+            "_source": {
+               "name": "Kids United",
+               "source": "https://billetterie.auchan.fr/fr/manifestation/kids-united-billet/idmanif/391071",
+               "category": {
+                  "occurrences": 1,
+                  "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+               }
+            }
+         },
+         {
+            "_index": "events_similarity",
+            "_type": "event",
+            "_id": "117",
+            "_score": 0.35355338,
+            "_source": {
+               "name": "Kids United La Troupe Du Jamel Comedy Club",
+               "source": "http://www.infoconcert.com/ticket/concert-kids-united-stars-80---10-ans-deja--la-troupe-du-jamel-comedy-club-sion/998592.html",
+               "performers": {
+                  "name": "KIDS UNITED"
+               }
+            }
+         }
+      ]
+   }

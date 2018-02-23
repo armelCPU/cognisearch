@@ -1,0 +1,30 @@
+"hits": [
+         {
+            "_index": "events_similarity",
+            "_type": "event",
+            "_id": "98",
+            "_score": 0.35355338,
+            "_source": {
+               "name": "GRAND PRIX DE FRANCE MOTO LE MANS",
+               "source": "http://www.francebillet.com/place-spectacle/manifestation/Sport-mecanique-GRAND-PRIX-DE-FRANCE-MOTO-MOGP7.htm",
+               "category": {
+                  "occurrences": 17,
+                  "uri": "ttp://www.owl-ontologies.com/categoriesEvt.owl#SportMecanique"
+               }
+            }
+         },
+         {
+            "_index": "events_similarity",
+            "_type": "event",
+            "_id": "96",
+            "_score": 0.35355338,
+            "_source": {
+               "name": "Grand Prix De France Moto 2017",
+               "source": "https://www.ticketmaster.fr/fr/manifestation/grand-prix-de-france-moto-2017-billet/idmanif/386862",
+               "category": {
+                  "occurrences": 16,
+                  "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#SportMecanique"
+               }
+            }
+         }
+      ]

@@ -1,0 +1,34 @@
+"hits": [
+         {
+            "_index": "events_similarity",
+            "_type": "event",
+            "_id": "60",
+            "_score": 0.35355338,
+            "_source": {
+               "name": "MANU CHAO LA VENTURA",
+               "source": "http://www.infoconcert.com/artiste/manu-chao-la-ventura-17559/concerts.html",
+               "category": {
+                  "occurrences": 33,
+                  "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+               },
+               "performers": {
+                  "name": "Manu Chao",
+                  "uri": "http://fr.dbpedia.org/resource/Manu_Chao"
+               }
+            }
+         },
+         {
+            "_index": "events_similarity",
+            "_type": "event",
+            "_id": "61",
+            "_score": 0.35355338,
+            "_source": {
+               "name": "Manu Chao La Ventura The Inspector Cluzo",
+               "source": "http://www.infoconcert.com/ticket/concert-manu-chao-la-ventura-the-inspector-cluzo-tic-saint-malo-du-bois/1015022.htm",
+               "performers": {
+                  "name": "Manu Chao",
+                  "uri": "http://fr.dbpedia.org/resource/Manu_Chao"
+               }
+            }
+         }
+      ]

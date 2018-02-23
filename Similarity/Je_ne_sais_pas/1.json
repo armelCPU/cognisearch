@@ -1,0 +1,41 @@
+"hits": [
+         {
+            "_index": "events_similarity",
+            "_type": "event",
+            "_id": "127",
+            "_score": 0.35355338,
+            "_source": {
+               "name": "Terminal Sound",
+               "source": "https://www.ticketmaster.fr/fr/artiste/terminal-sound/idartiste/3627",
+               "category": {
+                  "occurrences": 1,
+                  "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#AutreMusique"
+               },
+               "performers": {
+                  "name": "Terminal Sound"
+               }
+            }
+         },
+         {
+            "_index": "events_similarity",
+            "_type": "event",
+            "_id": "129",
+            "_score": 0.35355338,
+            "_source": {
+               "name": "Tryo Georgio Terminal Sound",
+               "source": "http://www.infoconcert.com/ticket/concert-tryo-georgio-terminal-sound-rouen/990282.html",
+               "category": {
+                  "occurrences": 1,
+                  "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+               },
+               "performers": [
+                  {
+                     "name": "Terminal Sound"
+                  },
+                  {
+                     "name": "TRYO GEORGIO"
+                  }
+               ]
+            }
+         }
+      ]

@@ -1,0 +1,549 @@
+    {
+            "_index": "cognisearch_event_20170308",
+            "_type": "event_type",
+            "_id": "AVsUH_G47_eJudBGJTDr",
+            "_score": 7.8712053,
+            "_source": {
+               "name": "MAIN SQUARE FESTIVAL 2017",
+               "description": "",
+               "category": [
+                  {
+                     "occurrences": 10,
+                     "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#FestivalDanse",
+                     "labels": [
+                        "FESTIVAL",
+                        "Festivals"
+                     ]
+                  }
+               ],
+               "performances": [
+                  {
+                     "venue": {
+                        "councilName": "ARRAS",
+                        "streetName": "Boulevard du Général de Gaulle",
+                        "addressString": "BVD DU GENERAL DE GAULLE 62000 ARRAS - FRANCE",
+                        "point": {
+                           "lat": 50.2860879,
+                           "lon": 2.759289
+                        }
+                     },
+                     "performers": [
+                        {
+                           "name": "THE INSPECTOR CLUZO",
+                           "uri": "http://fr.dbpedia.org/resource/The_Inspector_Cluzo"
+                        },
+                        {
+                           "name": "Major Lazer",
+                           "uri": "http://fr.dbpedia.org/resource/Major_Lazer"
+                        },
+                        {
+                           "name": "LAST TRAIN"
+                        },
+                        {
+                           "name": "Ghinzu",
+                           "uri": "http://fr.dbpedia.org/resource/Ghinzu"
+                        },
+                        {
+                           "name": "SYSTEM OF A DOWN",
+                           "uri": "http://fr.dbpedia.org/resource/System_of_a_Down"
+                        },
+                        {
+                           "name": "BIFFY CLYRO"
+                        },
+                        {
+                           "name": "TIGGS DA AUTHOR"
+                        },
+                        {
+                           "name": "THE NOFACE"
+                        }
+                     ],
+                     "perfDate": "2017-06-30",
+                     "source": [
+                        "https://www.ticketmaster.fr/fr/manifestation/main-square-festival-2017-pass-1-jour-billet/idmanif/389192"
+                     ]
+                  },
+                  {
+                     "venue": {
+                        "councilName": "ARRAS",
+                        "streetName": "Boulevard du Général de Gaulle",
+                        "addressString": "BVD DU GENERAL DE GAULLE 62000 ARRAS - FRANCE",
+                        "point": {
+                           "lat": 50.2860879,
+                           "lon": 2.759289
+                        }
+                     },
+                     "performers": [
+                        {
+                           "name": "Major Lazer",
+                           "uri": "http://fr.dbpedia.org/resource/Major_Lazer"
+                        },
+                        {
+                           "name": "KUNGS"
+                        },
+                        {
+                           "name": "XAVIER RUDD",
+                        },
+                        {
+                           "name": "DIRTYPHONICS"
+                        },
+                        {
+                           "name": "BIFFY CLYRO"
+                        },
+                        {
+                           "name": "TALISCO"
+                        },
+                        {
+                           "name": "WALKING ON CARS"
+                        }
+                     ],
+                     "perfDate": "2017-07-01",
+                     "source": [
+                        "https://www.ticketmaster.fr/fr/manifestation/main-square-festival-2017-pass-1-jour-billet/idmanif/389192"
+                     ]
+                  },
+                  {
+                     "venue": {
+                        "councilName": "ARRAS",
+                        "streetName": "Boulevard du Général de Gaulle",
+                        "addressString": "BVD DU GENERAL DE GAULLE 62000 ARRAS - FRANCE",
+                        "point": {
+                           "lat": 50.2860879,
+                           "lon": 2.759289
+                        }
+                     },
+                     "performers": [
+                        {
+                           "name": "Radiohead",
+                           "uri": "http://fr.dbpedia.org/resource/Radiohead"
+                        },
+                        {
+                           "name": "LA FEMME"
+                        },
+                        {
+                           "name": "THYLACINE"
+                        },
+                        {
+                           "name": "NAIVE NEW BEATERS"
+                        },
+                        {
+                           "name": "MARK LANEGAN BAND"
+                        },
+                        {
+                           "name": "HIGHLY SUSPECT"
+                        }
+                     ],
+                     "perfDate": "2017-07-02",
+                     "source": [
+                        "https://www.ticketmaster.fr/fr/manifestation/main-square-festival-2017-pass-1-jour-billet/idmanif/389192"
+                     ]
+                  },
+               ],
+            }
+         },
+         {
+            "_index": "cognisearch_event_20170308",
+            "_type": "event_type",
+            "_id": "AVsUKKQI7_eJudBGJTTZ",
+            "_score": 7.8712053,
+            "_source": {
+               "name": "Festival Main Square",
+               "description": "",
+               "category": [
+                  {
+                     "occurrences": 6,
+                     "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#FestivalDanse",
+                     "labels": [
+                        "Festival"
+                     ]
+                  }
+               ],
+               "performances": [
+                  {
+                     "venue": {
+                        "zipCode": "62041",
+                        "councilName": "ARRAS",
+                        "polygon": [
+                           {
+                              "lat": 50.277056650694725,
+                              "lon": 2.800803911056625
+                           },
+                           {
+                              "lat": 50.26993242197544,
+                              "lon": 2.792944784091244
+                           },
+                           {
+                              "lat": 50.27163250288387,
+                              "lon": 2.784265852990432
+                           },
+                           {
+                              "lat": 50.27792996020543,
+                              "lon": 2.78103039367249
+                           },
+                           {
+                              "lat": 50.27668220548747,
+                              "lon": 2.776201978653678
+                           },
+                           {
+                              "lat": 50.28127466865345,
+                              "lon": 2.76879716721993
+                           },
+                           {
+                              "lat": 50.27964810828024,
+                              "lon": 2.758702030299472
+                           },
+                           {
+                              "lat": 50.28335701060888,
+                              "lon": 2.750024358884625
+                           },
+                           {
+                              "lat": 50.28137012364362,
+                              "lon": 2.740099403139721
+                           },
+                           {
+                              "lat": 50.2905562551964,
+                              "lon": 2.740514700511698
+                           },
+                           {
+                              "lat": 50.293812046285936,
+                              "lon": 2.726454141630681
+                           },
+                           {
+                              "lat": 50.31050077183832,
+                              "lon": 2.729434341507434
+                           },
+                           {
+                              "lat": 50.3101259491924,
+                              "lon": 2.73881595925014
+                           },
+                           {
+                              "lat": 50.301461665751035,
+                              "lon": 2.751841314991731
+                           },
+                           {
+                              "lat": 50.29704851522532,
+                              "lon": 2.763160434213958
+                           },
+                           {
+                              "lat": 50.30044813745356,
+                              "lon": 2.770938325649886
+                           },
+                           {
+                              "lat": 50.29839847388336,
+                              "lon": 2.779385886457172
+                           },
+                           {
+                              "lat": 50.289999950927275,
+                              "lon": 2.792890678805792
+                           },
+                           {
+                              "lat": 50.289835205073466,
+                              "lon": 2.80757874723066
+                           },
+                           {
+                              "lat": 50.28388366383957,
+                              "lon": 2.808442164459747
+                           },
+                           {
+                              "lat": 50.27705665069472,
+                              "lon": 2.800803911056625
+                           }
+                        ],
+                        "addressString": "62041 ARRAS",
+                        "point": {
+                           "lat": 50.28771480656165,
+                           "lon": 2.76967288027494
+                        }
+                     },
+                     "performers": [
+                        {
+                           "name": "IGGY POP ",
+                        },
+                        {
+                           "name": " LOUISE ATTAQUE "
+                        },
+                        {
+                           "name": "JEANNE ADDED"
+                        },
+                        {
+                           "name": "DISCLOSURE "
+                        },
+                        {
+                           "name": "THE LONDON SOULS"
+                        },
+                        {
+                           "name": "YELAWOLF AKA YELA THE SUPERNOVA"
+                        }
+
+                     ],
+                     "perfDate": "2016-07-01",
+                     "source": [
+                        "http://www.infoconcert.com/festival/main-square-3915/archives.html"
+                     ],
+                     "perfHour": {
+                        "startHour": {
+                           "hh": 15,
+                           "mm": 30
+                        }
+                     }
+                  },
+                  {
+                     "venue": {
+                        "zipCode": "62041",
+                        "councilName": "ARRAS",
+                        "polygon": [
+                           {
+                              "lat": 50.277056650694725,
+                              "lon": 2.800803911056625
+                           },
+                           {
+                              "lat": 50.26993242197544,
+                              "lon": 2.792944784091244
+                           },
+                           {
+                              "lat": 50.27163250288387,
+                              "lon": 2.784265852990432
+                           },
+                           {
+                              "lat": 50.27792996020543,
+                              "lon": 2.78103039367249
+                           },
+                           {
+                              "lat": 50.27668220548747,
+                              "lon": 2.776201978653678
+                           },
+                           {
+                              "lat": 50.28127466865345,
+                              "lon": 2.76879716721993
+                           },
+                           {
+                              "lat": 50.27964810828024,
+                              "lon": 2.758702030299472
+                           },
+                           {
+                              "lat": 50.28335701060888,
+                              "lon": 2.750024358884625
+                           },
+                           {
+                              "lat": 50.28137012364362,
+                              "lon": 2.740099403139721
+                           },
+                           {
+                              "lat": 50.2905562551964,
+                              "lon": 2.740514700511698
+                           },
+                           {
+                              "lat": 50.293812046285936,
+                              "lon": 2.726454141630681
+                           },
+                           {
+                              "lat": 50.31050077183832,
+                              "lon": 2.729434341507434
+                           },
+                           {
+                              "lat": 50.3101259491924,
+                              "lon": 2.73881595925014
+                           },
+                           {
+                              "lat": 50.301461665751035,
+                              "lon": 2.751841314991731
+                           },
+                           {
+                              "lat": 50.29704851522532,
+                              "lon": 2.763160434213958
+                           },
+                           {
+                              "lat": 50.30044813745356,
+                              "lon": 2.770938325649886
+                           },
+                           {
+                              "lat": 50.29839847388336,
+                              "lon": 2.779385886457172
+                           },
+                           {
+                              "lat": 50.289999950927275,
+                              "lon": 2.792890678805792
+                           },
+                           {
+                              "lat": 50.289835205073466,
+                              "lon": 2.80757874723066
+                           },
+                           {
+                              "lat": 50.28388366383957,
+                              "lon": 2.808442164459747
+                           },
+                           {
+                              "lat": 50.27705665069472,
+                              "lon": 2.800803911056625
+                           }
+                        ],
+                        "addressString": "62041 ARRAS",
+                        "point": {
+                           "lat": 50.28771480656165,
+                           "lon": 2.76967288027494
+                        }
+                     },
+                     "performers": [
+                        {
+                           "name": "NEKFEU",
+                        },
+                        {
+                           "name": " MASS HYSTERIA"
+                        },
+                        {
+                           "name": "THE OFFSPRING"
+                        },
+                        {
+                           "name": "MACKLEMORE & RYAN LEWIS"
+                        },
+                        {
+                           "name": "WALK OFF THE EARTH"
+                        },
+                        {
+                           "name": "MARINA KAYE"
+                        },
+                        {
+                           "name": "NATHANIEL RATELIFF"
+                        }
+
+                     ],
+                     "perfDate": "2016-07-02",
+                     "source": [
+                        "http://www.infoconcert.com/festival/main-square-3915/archives.html"
+                     ],
+                     "perfHour": {
+                        "startHour": {
+                           "hh": 13,
+                           "mm": 30
+                        }
+                     }
+                  },
+                  {
+                     "venue": {
+                        "zipCode": "62041",
+                        "councilName": "ARRAS",
+                        "polygon": [
+                           {
+                              "lat": 50.277056650694725,
+                              "lon": 2.800803911056625
+                           },
+                           {
+                              "lat": 50.26993242197544,
+                              "lon": 2.792944784091244
+                           },
+                           {
+                              "lat": 50.27163250288387,
+                              "lon": 2.784265852990432
+                           },
+                           {
+                              "lat": 50.27792996020543,
+                              "lon": 2.78103039367249
+                           },
+                           {
+                              "lat": 50.27668220548747,
+                              "lon": 2.776201978653678
+                           },
+                           {
+                              "lat": 50.28127466865345,
+                              "lon": 2.76879716721993
+                           },
+                           {
+                              "lat": 50.27964810828024,
+                              "lon": 2.758702030299472
+                           },
+                           {
+                              "lat": 50.28335701060888,
+                              "lon": 2.750024358884625
+                           },
+                           {
+                              "lat": 50.28137012364362,
+                              "lon": 2.740099403139721
+                           },
+                           {
+                              "lat": 50.2905562551964,
+                              "lon": 2.740514700511698
+                           },
+                           {
+                              "lat": 50.293812046285936,
+                              "lon": 2.726454141630681
+                           },
+                           {
+                              "lat": 50.31050077183832,
+                              "lon": 2.729434341507434
+                           },
+                           {
+                              "lat": 50.3101259491924,
+                              "lon": 2.73881595925014
+                           },
+                           {
+                              "lat": 50.301461665751035,
+                              "lon": 2.751841314991731
+                           },
+                           {
+                              "lat": 50.29704851522532,
+                              "lon": 2.763160434213958
+                           },
+                           {
+                              "lat": 50.30044813745356,
+                              "lon": 2.770938325649886
+                           },
+                           {
+                              "lat": 50.29839847388336,
+                              "lon": 2.779385886457172
+                           },
+                           {
+                              "lat": 50.289999950927275,
+                              "lon": 2.792890678805792
+                           },
+                           {
+                              "lat": 50.289835205073466,
+                              "lon": 2.80757874723066
+                           },
+                           {
+                              "lat": 50.28388366383957,
+                              "lon": 2.808442164459747
+                           },
+                           {
+                              "lat": 50.27705665069472,
+                              "lon": 2.800803911056625
+                           }
+                        ],
+                        "addressString": "62041 ARRAS",
+                        "point": {
+                           "lat": 50.28771480656165,
+                           "lon": 2.76967288027494
+                        }
+                     },
+                     "performers": [
+                        {
+                           "name": "LES INSUS",
+                        },
+                        {
+                           "name": "LAST TRAIN"
+                        },
+                        {
+                           "name": "ODESZA"
+                        },
+                        {
+                           "name": "TIGGS DA AUTHOR"
+                        },
+                        {
+                           "name": "BAND OF HORSES"
+                        },
+                        {
+                           "name": "THE STRUTS"
+                        }
+                     ],
+                     "perfDate": "2016-07-03",
+                     "source": [
+                        "http://www.infoconcert.com/festival/main-square-3915/archives.html"
+                     ],
+                     "perfHour": {
+                        "startHour": {
+                           "hh": 13,
+                           "mm": 0
+                        }
+                     }
+                  }
+               ]
+            }
+         },
